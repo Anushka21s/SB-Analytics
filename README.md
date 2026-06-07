@@ -1,11 +1,11 @@
 # SB-Analytics
-Agentic AI-Based Dynamic Tariff Optimization for EV Charging Networks Using Large-Scale Charging Session Data.
 Agentic AI-Based Dynamic Tariff Optimization for EV Charging Networks
 A data-driven EV charging optimization system focused on forecasting charger utilization and simulating dynamic pricing strategies for urban charging networks.
 
 Built as part of the Society of Business Open Project 2026.
 
 Overview
+
 Static EV charging prices do not adapt to fluctuations in charging demand. During peak hours, this can lead to charger congestion, long wait times, and inefficient infrastructure utilization. On the other hand, low-demand periods often result in underused charging stations.
 
 This project explores how machine learning and dynamic pricing can be used together to improve charger utilization and simulate more efficient tariff strategies.
